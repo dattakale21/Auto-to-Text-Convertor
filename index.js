@@ -17,8 +17,5 @@ button.addEventListener("click", () => {
     recognition.start();
 });
 
-// Add a stop button or event listener to stop recognition when needed
-// Example:
-// stopButton.addEventListener("click", () => {
-//     recognition.stop();
-// });
+// Code By - Datta Kale 
+
