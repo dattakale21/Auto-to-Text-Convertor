@@ -1,5 +1,6 @@
 let button = document.querySelector("#listen");
 let area = document.querySelector(".area");
+
 let recognition = new webkitSpeechRecognition();
 
 button.addEventListener("click", () => {
